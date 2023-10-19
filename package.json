@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-de-actions2",
+  "version": "1.0.0",
+  "description": "* Cuenta de [Docker Hub](https://hub.docker.com/)\r * Cuenta de [AWS](http://aws.amazon.com/)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"MOCK: running tests \" && exit 0"
+  },
+  "author": "Ricardo",
+  "license": "ISC"
+}
