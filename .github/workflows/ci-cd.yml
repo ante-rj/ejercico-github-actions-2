@@ -77,4 +77,4 @@ jobs:
          uses: docker/build-push-action@v5
          with:
            push: true
-           tags: ${{ env.REGISTRY }}/${{ .envIMAGE_NAME}}:latest
+           tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME}}:latest
